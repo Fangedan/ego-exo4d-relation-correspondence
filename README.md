@@ -2,7 +2,7 @@
 
 The goal of the Ego-Exo4D relation benchmark is to relate the video content between ego and exo views. Check the [Ego-Exo4D paper](https://arxiv.org/abs/2311.18259) for further information.
 
-## [Correspondence](https://github.com/EGO4D/ego-exo4d-relation/tree/main/correspondence)
+## [Correspondence](https://github.com/Fangedan/ego-exo4d-relation/tree/main/correspondence)
 In this task, we aim at establishing object-level correspondences across ego and exo viewpoints.
 
 - [Annotations](https://docs.ego-exo4d-data.org/annotations/relations/)
@@ -10,5 +10,5 @@ In this task, we aim at establishing object-level correspondences across ego and
 - [Baseline Code](correspondence/)
 - [Challenge (Evaluation Server)](https://eval.ai/web/challenges/challenge-page/2288/overview)
 
-## [Translation](https://github.com/EGO4D/ego-exo4d-relation/tree/main/translation)
+## [Translation](https://github.com/Fangedan/ego-exo4d-relation/tree/main/translation)
 ### Coming Soon
